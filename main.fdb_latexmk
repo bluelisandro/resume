@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1696540135 "/home/lisandro/Documents/resume/main.tex" "main.pdf" "main" 1696540135 0
+["pdflatex"] 1696649374 "/home/lisandro/Documents/resume/main.tex" "main.pdf" "main" 1696649374 0
   "/etc/texmf/web2c/texmf.cnf" 1696285927 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/lisandro/.texlive2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1696536999 216446 3a069f47874dbacd1dfd2129d8c9af3f ""
-  "/home/lisandro/Documents/resume/main.tex" 1696540134 5245 4b466e64ac9d880233c960925a62beba ""
+  "/home/lisandro/Documents/resume/main.tex" 1696649374 6149 9b79ed2fcb8521ec50b54173faa25449 ""
   "/home/lisandro/texmf/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc" 1679344195 2969 d0ec9694be18bdfa11e2a0f61a62c0cc ""
   "/home/lisandro/texmf/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc" 1679344195 2945 f4c9aa1a657d71d9b432a32e633f5416 ""
   "/home/lisandro/texmf/fonts/tfm/public/ebgaramond/EBGaramond-Bold-osf-ot1.tfm" 1679344195 7468 0642d4eb83ca6dfd4da9a41f3495d0f1 ""
@@ -57,8 +57,8 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1693172360 40357 c95f5d5e031b5c7040b426833c11f2e0 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1693172360 40357 c95f5d5e031b5c7040b426833c11f2e0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1696285952 6494430 36ded9388dd8872b5ab120496d7d2500 ""
-  "main.aux" 1696540135 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1696540134 5245 4b466e64ac9d880233c960925a62beba ""
+  "main.aux" 1696649374 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1696649374 6149 9b79ed2fcb8521ec50b54173faa25449 ""
   "resume.cls" 1696537372 6074 8688af36d922a4825d95dea69856ff45 ""
   (generated)
   "main.aux"
